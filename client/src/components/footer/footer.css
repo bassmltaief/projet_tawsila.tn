@@ -1,0 +1,13 @@
+.footer{
+    border-top: 2px solid #fff;
+    margin-bottom: 0%;
+}
+.footer p{
+    width: 90%;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+}
+.footer a{
+    color: #fff;
+}

@@ -1,0 +1,14 @@
+.profile h1{
+    text-align: center;
+    color:mediumturquoise;
+}
+.profile h3{
+    color:mediumturquoise
+}
+.profile{
+    background-image : url("./bienvenue.jpg") ;
+  width: 1345px;
+  background-repeat: no-repeat;
+   height: 480px;
+  
+}
